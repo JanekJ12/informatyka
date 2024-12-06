@@ -12,7 +12,6 @@ with open("C:\\Users\\koluc\\Documents\\GitHub\\INF2bT\\ZbiorCKE\\liczby.txt","r
             zm2 = liczba
 
         liczby.append(liczba)
-#
 print(licznik,zm1,zm2)
 #60.2
 for liczba in liczby:
